@@ -82,3 +82,5 @@ while init_chat == 'yes':
 ### check if variable has value: 
 print()
 print('Well it was nice talking to you!')
+
+####
